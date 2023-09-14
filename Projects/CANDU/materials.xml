@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<materials>
+  <material depletable="true" id="1" name="fuel">
+    <density units="g/cm3" value="10.0" />
+    <nuclide ao="5.4e-05" name="U234" />
+    <nuclide ao="0.007204" name="U235" />
+    <nuclide ao="0.992742" name="U238" />
+    <nuclide ao="1.9952412" name="O16" />
+    <nuclide ao="0.000758" name="O17" />
+    <nuclide ao="0.0040008" name="O18" />
+  </material>
+  <material id="2" name="zircaloy">
+    <density units="g/cm3" value="6.0" />
+    <nuclide ao="0.5145" name="Zr90" />
+    <nuclide ao="0.1122" name="Zr91" />
+    <nuclide ao="0.1715" name="Zr92" />
+    <nuclide ao="0.1738" name="Zr94" />
+    <nuclide ao="0.028" name="Zr96" />
+  </material>
+  <material id="3" name="heavy water">
+    <density units="g/cm3" value="1.1" />
+    <nuclide ao="2.0" name="H2" />
+    <nuclide ao="1.0" name="O16" />
+    <sab name="c_D_in_D2O" />
+  </material>
+</materials>

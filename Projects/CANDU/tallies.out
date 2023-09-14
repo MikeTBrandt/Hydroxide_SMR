@@ -1,0 +1,113 @@
+ ============================>     TALLY 1     <============================
+
+ Distributed Cell u3->c48->u1->c100->u2->c5
+   Total Material
+     Flux                                 0.214153 +/- 0.00713067
+ Distributed Cell u3->c48->u1->c200->u2->c5
+   Total Material
+     Flux                                 0.201268 +/- 0.00725968
+ Distributed Cell u3->c48->u1->c201->u2->c5
+   Total Material
+     Flux                                 0.209272 +/- 0.00779255
+ Distributed Cell u3->c48->u1->c202->u2->c5
+   Total Material
+     Flux                                 0.20321 +/- 0.00822197
+ Distributed Cell u3->c48->u1->c203->u2->c5
+   Total Material
+     Flux                                 0.1819 +/- 0.00672346
+ Distributed Cell u3->c48->u1->c204->u2->c5
+   Total Material
+     Flux                                 0.182973 +/- 0.00778717
+ Distributed Cell u3->c48->u1->c205->u2->c5
+   Total Material
+     Flux                                 0.216187 +/- 0.00806409
+ Distributed Cell u3->c48->u1->c300->u2->c5
+   Total Material
+     Flux                                 0.163046 +/- 0.00960246
+ Distributed Cell u3->c48->u1->c301->u2->c5
+   Total Material
+     Flux                                 0.165731 +/- 0.00847912
+ Distributed Cell u3->c48->u1->c302->u2->c5
+   Total Material
+     Flux                                 0.160228 +/- 0.0066679
+ Distributed Cell u3->c48->u1->c303->u2->c5
+   Total Material
+     Flux                                 0.157215 +/- 0.00361732
+ Distributed Cell u3->c48->u1->c304->u2->c5
+   Total Material
+     Flux                                 0.165678 +/- 0.00469805
+ Distributed Cell u3->c48->u1->c305->u2->c5
+   Total Material
+     Flux                                 0.148899 +/- 0.00768801
+ Distributed Cell u3->c48->u1->c306->u2->c5
+   Total Material
+     Flux                                 0.148139 +/- 0.00812783
+ Distributed Cell u3->c48->u1->c307->u2->c5
+   Total Material
+     Flux                                 0.13911 +/- 0.00832054
+ Distributed Cell u3->c48->u1->c308->u2->c5
+   Total Material
+     Flux                                 0.156514 +/- 0.00804736
+ Distributed Cell u3->c48->u1->c309->u2->c5
+   Total Material
+     Flux                                 0.172361 +/- 0.00892336
+ Distributed Cell u3->c48->u1->c310->u2->c5
+   Total Material
+     Flux                                 0.161968 +/- 0.00856767
+ Distributed Cell u3->c48->u1->c311->u2->c5
+   Total Material
+     Flux                                 0.158102 +/- 0.00843685
+ Distributed Cell u3->c48->u1->c400->u2->c5
+   Total Material
+     Flux                                 0.107216 +/- 0.00539543
+ Distributed Cell u3->c48->u1->c401->u2->c5
+   Total Material
+     Flux                                 0.119373 +/- 0.0100307
+ Distributed Cell u3->c48->u1->c402->u2->c5
+   Total Material
+     Flux                                 0.116072 +/- 0.00409445
+ Distributed Cell u3->c48->u1->c403->u2->c5
+   Total Material
+     Flux                                 0.108228 +/- 0.00326663
+ Distributed Cell u3->c48->u1->c404->u2->c5
+   Total Material
+     Flux                                 0.111262 +/- 0.00480554
+ Distributed Cell u3->c48->u1->c405->u2->c5
+   Total Material
+     Flux                                 0.110068 +/- 0.00413894
+ Distributed Cell u3->c48->u1->c406->u2->c5
+   Total Material
+     Flux                                 0.108004 +/- 0.00397935
+ Distributed Cell u3->c48->u1->c407->u2->c5
+   Total Material
+     Flux                                 0.10436 +/- 0.00552884
+ Distributed Cell u3->c48->u1->c408->u2->c5
+   Total Material
+     Flux                                 0.102997 +/- 0.0055316
+ Distributed Cell u3->c48->u1->c409->u2->c5
+   Total Material
+     Flux                                 0.106766 +/- 0.00522818
+ Distributed Cell u3->c48->u1->c410->u2->c5
+   Total Material
+     Flux                                 0.101012 +/- 0.0058868
+ Distributed Cell u3->c48->u1->c411->u2->c5
+   Total Material
+     Flux                                 0.0927862 +/- 0.0047557
+ Distributed Cell u3->c48->u1->c412->u2->c5
+   Total Material
+     Flux                                 0.0987816 +/- 0.00476269
+ Distributed Cell u3->c48->u1->c413->u2->c5
+   Total Material
+     Flux                                 0.11382 +/- 0.0055589
+ Distributed Cell u3->c48->u1->c414->u2->c5
+   Total Material
+     Flux                                 0.105029 +/- 0.00390732
+ Distributed Cell u3->c48->u1->c415->u2->c5
+   Total Material
+     Flux                                 0.11051 +/- 0.00567799
+ Distributed Cell u3->c48->u1->c416->u2->c5
+   Total Material
+     Flux                                 0.113453 +/- 0.00350599
+ Distributed Cell u3->c48->u1->c417->u2->c5
+   Total Material
+     Flux                                 0.112085 +/- 0.00402234
