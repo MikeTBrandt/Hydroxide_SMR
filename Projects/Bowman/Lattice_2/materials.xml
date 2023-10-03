@@ -39,4 +39,9 @@
     <nuclide ao="0.988922" name="C12" />
     <nuclide ao="0.011078" name="C13" />
   </material>
+  <material id="6" name="graphite" temperature="900">
+    <density units="sum" />
+    <nuclide ao="0.988922" name="C12" />
+    <nuclide ao="0.011078" name="C13" />
+  </material>
 </materials>

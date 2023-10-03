@@ -9,6 +9,8 @@
   <cell id="7" material="3" region="(4 | -5 | 6) (-7 8 -9)" universe="2" />
   <cell id="45" material="2" region="(10 | -11 | 12) (-13 14 -15)" universe="1" />
   <cell id="46" material="5" region="-63 62 -65 64 -67 66 (13 | -14 | 15)" universe="1" />
+  <cell id="47" material="6" region="-63 62 -65 64 -67 66" universe="3" />
+  <cell fill="4" id="48" region="-68 69 -70" universe="5" />
   <cell fill="2" id="100" region="-25" translation="0.0 0.0 0.0" universe="1" />
   <cell fill="2" id="200" region="-26" translation="2.1 0.0 0.0" universe="1" />
   <cell fill="2" id="201" region="-27" translation="1.0500000000000003 1.818653347947321 0.0" universe="1" />
@@ -46,6 +48,21 @@
   <cell fill="2" id="415" region="-59" translation="3.100000000000001 -5.36935750346352 0.0" universe="1" />
   <cell fill="2" id="416" region="-60" translation="4.749475547337663 -3.9852831800565456 0.0" universe="1" />
   <cell fill="2" id="417" region="-61" translation="5.826094248872632 -2.1205248886191455 0.0" universe="1" />
+  <lattice id="4">
+    <pitch>18 18</pitch>
+    <dimension>9 9</dimension>
+    <lower_left>-81.0 -81.0</lower_left>
+    <universes>
+3 3 3 3 1 3 3 3 3 
+3 3 1 1 1 1 1 3 3 
+3 1 1 1 1 1 1 1 3 
+3 1 1 1 1 1 1 1 3 
+1 1 1 1 1 1 1 1 1 
+3 1 1 1 1 1 1 1 3 
+3 1 1 1 1 1 1 1 3 
+3 3 1 1 1 1 1 3 3 
+3 3 3 3 1 3 3 3 3 </universes>
+  </lattice>
   <surface coeffs="0 0 0.35" id="1" type="z-cylinder" />
   <surface coeffs="-81.6725" id="2" type="z-plane" />
   <surface coeffs="81.6725" id="3" type="z-plane" />
@@ -107,10 +124,13 @@
   <surface coeffs="3.100000000000001 -5.36935750346352 0.6" id="59" type="z-cylinder" />
   <surface coeffs="4.749475547337663 -3.9852831800565456 0.6" id="60" type="z-cylinder" />
   <surface coeffs="5.826094248872632 -2.1205248886191455 0.6" id="61" type="z-cylinder" />
-  <surface boundary="reflective" coeffs="-9.0" id="62" type="x-plane" />
-  <surface boundary="reflective" coeffs="9.0" id="63" type="x-plane" />
-  <surface boundary="reflective" coeffs="-9.0" id="64" type="y-plane" />
-  <surface boundary="reflective" coeffs="9.0" id="65" type="y-plane" />
-  <surface boundary="reflective" coeffs="-81.6726" id="66" type="z-plane" />
-  <surface boundary="reflective" coeffs="81.6726" id="67" type="z-plane" />
+  <surface coeffs="-9.0" id="62" type="x-plane" />
+  <surface coeffs="9.0" id="63" type="x-plane" />
+  <surface coeffs="-9.0" id="64" type="y-plane" />
+  <surface coeffs="9.0" id="65" type="y-plane" />
+  <surface coeffs="-81.6725" id="66" type="z-plane" />
+  <surface coeffs="81.6725" id="67" type="z-plane" />
+  <surface boundary="vacuum" coeffs="0 0 81.6725" id="68" type="z-cylinder" />
+  <surface boundary="vacuum" coeffs="-81.6725" id="69" type="z-plane" />
+  <surface boundary="vacuum" coeffs="81.6725" id="70" type="z-plane" />
 </geometry>
