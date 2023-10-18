@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <materials>
-  <material depletable="true" id="1" name="uo2">
+  <material depletable="true" id="1" name="uo2" volume="2325.9133461928313">
     <density units="sum" />
-    <nuclide ao="0.0017832925496507987" name="U234" />
-    <nuclide ao="0.19951493213963065" name="U235" />
-    <nuclide ao="0.7977879010913043" name="U238" />
-    <nuclide ao="0.0009138742194142107" name="U236" />
     <nuclide ao="1.9952412" name="O16" />
     <nuclide ao="0.000758" name="O17" />
     <nuclide ao="0.0040008" name="O18" />
+    <nuclide ao="0.0017832925496507987" name="U234" />
+    <nuclide ao="0.19951493213963065" name="U235" />
+    <nuclide ao="0.0009138742194142107" name="U236" />
+    <nuclide ao="0.7977879010913043" name="U238" />
   </material>
   <material id="2" name="graphite">
     <density units="sum" />
@@ -25,17 +25,17 @@
     <nuclide ao="0.0308716" name="Si30" />
     <sab name="c_Graphite" />
   </material>
-  <material id="6" name="LiOH(0.24562)-NaOH(0.75438)" temperature="973">
-    <density units="g/cm3" value="19.968496545793336" />
-    <nuclide ao="4.088805079646882e-06" name="Li6" />
-    <nuclide ao="0.08202565847115985" name="Li7" />
-    <nuclide ao="0.3331582884006518" name="O16" />
-    <nuclide ao="0.00012661533659579237" name="O17" />
-    <nuclide ao="0.333209239979775" name="H1" />
-    <nuclide ao="4.9962807286808915e-05" name="H2" />
-    <nuclide ao="0.251426146199451" name="Na23" />
+  <material id="4" name="LiOH+NaOH" temperature="973">
+    <density units="sum" />
+    <nuclide name="H1" wo="0.028405824" />
+    <nuclide name="H2" wo="6.534e-06" />
+    <nuclide name="Li6" wo="2.2e-08" />
+    <nuclide name="Li7" wo="0.059659065" />
+    <nuclide name="O16" wo="0.453590909" />
+    <nuclide name="O17" wo="0.000183523" />
+    <nuclide name="Na23" wo="0.457386364" />
   </material>
-  <material id="7" name="graphite">
+  <material id="5" name="graphite">
     <density units="sum" />
     <nuclide ao="0.988922" name="C12" />
     <nuclide ao="0.011078" name="C13" />
