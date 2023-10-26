@@ -25,13 +25,23 @@
     <nuclide ao="0.0308716" name="Si30" />
     <sab name="c_Graphite" />
   </material>
-  <material id="4" name="graphite">
+  <material id="4" name="LiOH+NaOH">
+    <density units="sum" />
+    <nuclide name="Li6" wo="2.2e-08" />
+    <nuclide name="Li7" wo="0.059659065" />
+    <nuclide name="H1" wo="0.028405824" />
+    <nuclide name="H2" wo="6.534e-06" />
+    <nuclide name="O16" wo="0.453590909" />
+    <nuclide name="O17" wo="0.000183523" />
+    <nuclide name="Na23" wo="0.457386364" />
+  </material>
+  <material id="5" name="graphite">
     <density units="sum" />
     <nuclide ao="0.988922" name="C12" />
     <nuclide ao="0.011078" name="C13" />
     <sab name="c_Graphite" />
   </material>
-  <material id="5" name="graphite">
+  <material id="6" name="graphite">
     <density units="sum" />
     <nuclide ao="0.988922" name="C12" />
     <nuclide ao="0.011078" name="C13" />
