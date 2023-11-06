@@ -18,11 +18,11 @@
   </material>
   <material id="3" name="SiC">
     <density units="sum" />
-    <nuclide ao="0.988922" name="C12" />
-    <nuclide ao="0.011078" name="C13" />
-    <nuclide ao="0.9222968" name="Si28" />
-    <nuclide ao="0.0468316" name="Si29" />
-    <nuclide ao="0.0308716" name="Si30" />
+    <nuclide ao="0.494461" name="C12" />
+    <nuclide ao="0.005539" name="C13" />
+    <nuclide ao="0.4611484" name="Si28" />
+    <nuclide ao="0.0234158" name="Si29" />
+    <nuclide ao="0.0154358" name="Si30" />
     <sab name="c_Graphite" />
   </material>
   <material id="4" name="FLiBe">

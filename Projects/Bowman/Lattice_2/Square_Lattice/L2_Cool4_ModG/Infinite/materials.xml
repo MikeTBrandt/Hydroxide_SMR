@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<materials>
+  <material depletable="true" id="1" name="uo2">
+    <density units="sum" />
+    <nuclide ao="0.0017832925496507987" name="U234" />
+    <nuclide ao="0.19951493213963065" name="U235" />
+    <nuclide ao="0.7977879010913043" name="U238" />
+    <nuclide ao="0.0009138742194142107" name="U236" />
+    <nuclide ao="1.9952412" name="O16" />
+    <nuclide ao="0.000758" name="O17" />
+    <nuclide ao="0.0040008" name="O18" />
+  </material>
+  <material id="2" name="graphite">
+    <density units="sum" />
+    <nuclide ao="0.988922" name="C12" />
+    <nuclide ao="0.011078" name="C13" />
+    <sab name="c_Graphite" />
+  </material>
+  <material id="3" name="SiC">
+    <density units="sum" />
+    <nuclide ao="0.494461" name="C12" />
+    <nuclide ao="0.005539" name="C13" />
+    <nuclide ao="0.4611484" name="Si28" />
+    <nuclide ao="0.0234158" name="Si29" />
+    <nuclide ao="0.0154358" name="Si30" />
+    <sab name="c_Graphite" />
+  </material>
+  <material id="4" name="LiOH+NaOH" temperature="973">
+    <density units="sum" />
+    <nuclide name="Li6" wo="2.2e-08" />
+    <nuclide name="Li7" wo="0.059659065" />
+    <nuclide name="H1" wo="0.028405824" />
+    <nuclide name="H2" wo="6.534e-06" />
+    <nuclide name="O16" wo="0.453590909" />
+    <nuclide name="Na23" wo="0.457386364" />
+  </material>
+  <material id="5" name="graphite">
+    <density units="sum" />
+    <nuclide ao="0.988922" name="C12" />
+    <nuclide ao="0.011078" name="C13" />
+    <sab name="c_Graphite" />
+  </material>
+</materials>
