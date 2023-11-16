@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <geometry>
-  <cell id="1" material="4" region="-16 17 -18 25" temperature="973" universe="1" />
-  <cell id="2" material="4" region="(16 | -17 | 18) (-19 20 -21) 26 27 28 29 30 31" universe="1" />
-  <cell id="3" material="4" region="(19 | -20 | 21) (-22 23 -24) 32 33 34 35 36 37 38 39 40 41 42 43" universe="1" />
-  <cell id="4" material="4" region="(22 | -23 | 24) (-10 11 -12) 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61" universe="1" />
+  <cell id="1" material="6" region="-16 17 -18 25" temperature="973" universe="1" />
+  <cell id="2" material="6" region="(16 | -17 | 18) (-19 20 -21) 26 27 28 29 30 31" universe="1" />
+  <cell id="3" material="6" region="(19 | -20 | 21) (-22 23 -24) 32 33 34 35 36 37 38 39 40 41 42 43" universe="1" />
+  <cell id="4" material="6" region="(22 | -23 | 24) (-10 11 -12) 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61" universe="1" />
   <cell id="5" material="1" region="-1 2 -3" temperature="1473" universe="2" />
   <cell id="6" material="2" region="(1 | -2 | 3) (-4 5 -6)" temperature="1273" universe="2" />
   <cell id="7" material="3" region="(4 | -5 | 6) (-7 8 -9)" temperature="973" universe="2" />
   <cell id="45" material="2" region="(10 | -11 | 12) (-13 14 -15)" temperature="973" universe="1" />
-  <cell id="46" material="5" region="-63 62 -65 64 -67 66 (13 | -14 | 15)" temperature="973" universe="1" />
-  <cell id="47" material="6" region="-63 62 -65 64 -67 66" universe="3" />
+  <cell id="46" material="7" region="-63 62 -65 64 -67 66 (13 | -14 | 15)" temperature="973" universe="1" />
+  <cell id="47" material="8" region="-63 62 -65 64 -67 66" universe="3" />
   <cell fill="4" id="48" region="-68 69 -70" universe="5" />
   <cell fill="2" id="100" region="-25" translation="0.0 0.0 0.0" universe="1" />
   <cell fill="2" id="200" region="-26" translation="2.1 0.0 0.0" universe="1" />

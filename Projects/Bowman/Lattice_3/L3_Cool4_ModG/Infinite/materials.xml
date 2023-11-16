@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<materials>
+  <material depletable="true" id="1" name="uo2">
+    <density units="g/cc" value="10.5" />
+    <nuclide ao="0.0017832925496507987" name="U234" />
+    <nuclide ao="0.19951493213963065" name="U235" />
+    <nuclide ao="0.7977879010913043" name="U238" />
+    <nuclide ao="0.0009138742194142107" name="U236" />
+    <nuclide ao="1.9952412" name="O16" />
+    <nuclide ao="0.000758" name="O17" />
+    <nuclide ao="0.0040008" name="O18" />
+  </material>
+  <material id="2" name="graphite">
+    <density units="g/cm3" value="1.5" />
+    <nuclide ao="0.988922" name="C12" />
+    <nuclide ao="0.011078" name="C13" />
+    <sab name="c_Graphite" />
+  </material>
+  <material id="3" name="SiC">
+    <density units="g/cm3" value="2.58" />
+    <nuclide ao="0.494461" name="C12" />
+    <nuclide ao="0.005539" name="C13" />
+    <nuclide ao="0.4611484" name="Si28" />
+    <nuclide ao="0.0234158" name="Si29" />
+    <nuclide ao="0.0154358" name="Si30" />
+    <sab name="c_C_in_SiC" />
+  </material>
+  <material id="6" name="LiOH(0.24562)-NaOH(0.75438)" temperature="973">
+    <density units="g/cc" value="1.67" />
+    <nuclide ao="4.990874402335972e-06" name="Li6" />
+    <nuclide ao="0.10012210198922454" name="Li7" />
+    <nuclide ao="0.33313982229538713" name="O16" />
+    <nuclide ao="0.00012660840502509179" name="O17" />
+    <nuclide ao="0.333190775000821" name="H1" />
+    <nuclide ao="4.996110695853337e-05" name="H2" />
+    <nuclide ao="0.23336574032818147" name="Na23" />
+  </material>
+  <material id="7" name="graphite">
+    <density units="g/cc" value="1.5" />
+    <nuclide ao="0.988922" name="C12" />
+    <nuclide ao="0.011078" name="C13" />
+    <sab name="c_Graphite" />
+  </material>
+</materials>

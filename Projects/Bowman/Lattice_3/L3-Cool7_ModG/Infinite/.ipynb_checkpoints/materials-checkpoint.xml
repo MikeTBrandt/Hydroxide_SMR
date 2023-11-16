@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<materials>
+  <material depletable="true" id="1" name="uo2">
+    <density units="sum" />
+    <nuclide name="U234" wo="0.1323835" />
+    <nuclide name="U235" wo="17.40453" />
+    <nuclide name="U238" wo="70.58727" />
+    <nuclide name="O16" wo="11.87103" />
+    <nuclide name="O17" wo="0.004794826" />
+  </material>
+  <material id="2" name="graphite">
+    <density units="sum" />
+    <nuclide ao="0.988922" name="C12" />
+    <nuclide ao="0.011078" name="C13" />
+    <sab name="c_Graphite" />
+  </material>
+  <material id="3" name="SiC">
+    <density units="sum" />
+    <nuclide ao="0.494461" name="C12" />
+    <nuclide ao="0.005539" name="C13" />
+    <nuclide ao="0.4611484" name="Si28" />
+    <nuclide ao="0.0234158" name="Si29" />
+    <nuclide ao="0.0154358" name="Si30" />
+    <sab name="c_C_in_SiC" />
+  </material>
+  <material id="4" name="FLiBe" temperature="973">
+    <density units="sum" />
+    <nuclide name="Be9" wo="9.027871" />
+    <nuclide name="F19" wo="76.70254" />
+    <nuclide name="Li7" wo="14.26898" />
+    <nuclide name="Li6" wo="0.000611689" />
+  </material>
+  <material id="5" name="graphite">
+    <density units="sum" />
+    <nuclide ao="0.988922" name="C12" />
+    <nuclide ao="0.011078" name="C13" />
+    <sab name="c_Graphite" />
+  </material>
+</materials>

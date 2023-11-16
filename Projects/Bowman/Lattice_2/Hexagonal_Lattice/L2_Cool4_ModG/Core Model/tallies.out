@@ -1,4 +1,11 @@
- ============================>     TALLY 1     <============================
+ ===================>     TALLY 1: THERM. ABS. RATE     <===================
 
- Internal
+ Incoming Energy [0, 0.625)
+   Total Material
+     Absorption Rate                      0.618496 +/- 0.000119942
+ =================>     TALLY 2: FUEL THERM. ABS.RATE     <=================
 
+ Incoming Energy [0, 0.625)
+   Cell 5
+     Total Material
+       Absorption Rate                      0.538519 +/- 0.000109771
