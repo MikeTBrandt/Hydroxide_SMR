@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <materials>
-  <material depletable="true" id="1" name="uo2">
+  <material depletable="true" id="1" name="uo2" volume="165716.60915848156">
     <density units="g/cc" value="10.5" />
-    <nuclide ao="0.0017832925496507987" name="U234" />
-    <nuclide ao="0.19951493213963065" name="U235" />
-    <nuclide ao="0.7977879010913043" name="U238" />
-    <nuclide ao="0.0009138742194142107" name="U236" />
     <nuclide ao="1.9952412" name="O16" />
     <nuclide ao="0.000758" name="O17" />
     <nuclide ao="0.0040008" name="O18" />
+    <nuclide ao="0.0017832925496507987" name="U234" />
+    <nuclide ao="0.19951493213963065" name="U235" />
+    <nuclide ao="0.0009138742194142107" name="U236" />
+    <nuclide ao="0.7977879010913043" name="U238" />
   </material>
   <material id="2" name="graphite">
     <density units="g/cm3" value="1.5" />
@@ -27,30 +27,30 @@
   </material>
   <material id="6" name="LiOH(0.24562)-NaOH(0.75438)">
     <density units="g/cc" value="1.67" />
+    <nuclide ao="0.333190775000821" name="H1" />
+    <nuclide ao="4.996110695853337e-05" name="H2" />
     <nuclide ao="4.990874402335972e-06" name="Li6" />
     <nuclide ao="0.10012210198922454" name="Li7" />
     <nuclide ao="0.33313982229538713" name="O16" />
     <nuclide ao="0.00012660840502509179" name="O17" />
-    <nuclide ao="0.333190775000821" name="H1" />
-    <nuclide ao="4.996110695853337e-05" name="H2" />
     <nuclide ao="0.23336574032818147" name="Na23" />
   </material>
   <material id="7" name="LiOH">
     <density units="g/cm3" value="1.39" />
+    <nuclide name="H1" wo="0.04195279" />
+    <nuclide name="H2" wo="1.257524e-05" />
     <nuclide name="Li6" wo="1.251904e-05" />
     <nuclide name="Li7" wo="0.2929339" />
     <nuclide name="O16" wo="0.6657193" />
     <nuclide name="O17" wo="0.0002688907" />
-    <nuclide name="H1" wo="0.04195279" />
-    <nuclide name="H2" wo="1.257524e-05" />
   </material>
   <material id="8" name="LiOH">
     <density units="g/cm3" value="1.39" />
+    <nuclide name="H1" wo="0.04195279" />
+    <nuclide name="H2" wo="1.257524e-05" />
     <nuclide name="Li6" wo="1.251904e-05" />
     <nuclide name="Li7" wo="0.2929339" />
     <nuclide name="O16" wo="0.6657193" />
     <nuclide name="O17" wo="0.0002688907" />
-    <nuclide name="H1" wo="0.04195279" />
-    <nuclide name="H2" wo="1.257524e-05" />
   </material>
 </materials>
