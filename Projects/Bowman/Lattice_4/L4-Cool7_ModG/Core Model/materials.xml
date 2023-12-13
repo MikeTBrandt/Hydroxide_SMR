@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <materials>
-  <material depletable="true" id="1" name="uo2">
+  <material depletable="true" id="1" name="uo2" volume="69676.30157799793">
     <density units="g/cc" value="10.5" />
-    <nuclide ao="0.0017832925496507987" name="U234" />
-    <nuclide ao="0.19951493213963065" name="U235" />
-    <nuclide ao="0.7977879010913043" name="U238" />
-    <nuclide ao="0.0009138742194142107" name="U236" />
     <nuclide ao="1.9952412" name="O16" />
     <nuclide ao="0.000758" name="O17" />
     <nuclide ao="0.0040008" name="O18" />
+    <nuclide ao="0.0017832925496507987" name="U234" />
+    <nuclide ao="0.19951493213963065" name="U235" />
+    <nuclide ao="0.0009138742194142107" name="U236" />
+    <nuclide ao="0.7977879010913043" name="U238" />
   </material>
   <material id="2" name="graphite">
     <density units="g/cm3" value="1.5" />
@@ -27,10 +27,10 @@
   </material>
   <material id="4" name="FLiBe">
     <density units="g/cm3" value="1.94" />
+    <nuclide name="Li6" wo="6.11689e-06" />
+    <nuclide name="Li7" wo="0.1426898" />
     <nuclide name="Be9" wo="0.09027871" />
     <nuclide name="F19" wo="0.7670254" />
-    <nuclide name="Li7" wo="0.1426898" />
-    <nuclide name="Li6" wo="6.11689e-06" />
   </material>
   <material id="5" name="graphite">
     <density units="g/cc" value="1.5" />

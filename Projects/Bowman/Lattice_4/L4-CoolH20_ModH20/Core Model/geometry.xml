@@ -49,21 +49,18 @@
   <cell fill="2" id="416" region="-60" translation="3.6770133269710934 -3.0853805264953897 0.0" universe="1" />
   <cell fill="2" id="417" region="-61" translation="4.51052457977236 -1.6416966879632093 0.0" universe="1" />
   <lattice id="4">
-    <pitch>16 16</pitch>
+    <pitch>25 25</pitch>
     <outer>3</outer>
-    <dimension>10 10</dimension>
-    <lower_left>-80.0 -80.0</lower_left>
+    <dimension>7 7</dimension>
+    <lower_left>-87.5 -87.5</lower_left>
     <universes>
-3 3 1 1 1 1 1 1 3 3 
-3 1 1 1 1 1 1 1 1 3 
-1 1 1 1 1 1 1 1 1 1 
-1 1 1 1 1 1 1 1 1 1 
-1 1 1 1 1 1 1 1 1 1 
-1 1 1 1 1 1 1 1 1 1 
-1 1 1 1 1 1 1 1 1 1 
-1 1 1 1 1 1 1 1 1 1 
-3 1 1 1 1 1 1 1 1 3 
-3 3 1 1 1 1 1 1 3 3 </universes>
+3 3 1 1 1 3 3 
+3 1 1 1 1 1 3 
+1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 
+3 1 1 1 1 1 3 
+3 3 1 1 1 3 3 </universes>
   </lattice>
   <surface coeffs="0 0 0.35" id="1" type="z-cylinder" />
   <surface coeffs="-66.125" id="2" type="z-plane" />
@@ -126,10 +123,10 @@
   <surface coeffs="2.4000000000000004 -4.156921938165305 0.6" id="59" type="z-cylinder" />
   <surface coeffs="3.6770133269710934 -3.0853805264953897 0.6" id="60" type="z-cylinder" />
   <surface coeffs="4.51052457977236 -1.6416966879632093 0.6" id="61" type="z-cylinder" />
-  <surface coeffs="-8.0" id="62" type="x-plane" />
-  <surface coeffs="8.0" id="63" type="x-plane" />
-  <surface coeffs="-8.0" id="64" type="y-plane" />
-  <surface coeffs="8.0" id="65" type="y-plane" />
+  <surface coeffs="-12.5" id="62" type="x-plane" />
+  <surface coeffs="12.5" id="63" type="x-plane" />
+  <surface coeffs="-12.5" id="64" type="y-plane" />
+  <surface coeffs="12.5" id="65" type="y-plane" />
   <surface coeffs="-66.125" id="66" type="z-plane" />
   <surface coeffs="66.125" id="67" type="z-plane" />
   <surface boundary="vacuum" coeffs="0 0 92.675" id="68" type="z-cylinder" />
