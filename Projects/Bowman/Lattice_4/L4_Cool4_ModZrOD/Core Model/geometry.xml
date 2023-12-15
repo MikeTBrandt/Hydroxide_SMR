@@ -71,10 +71,10 @@
   <surface coeffs="0 0 0.6" id="7" type="z-cylinder" />
   <surface coeffs="-66.125" id="8" type="z-plane" />
   <surface coeffs="66.125" id="9" type="z-plane" />
-  <surface coeffs="0 0 7.5" id="10" type="z-cylinder" />
+  <surface coeffs="0 0 5.8" id="10" type="z-cylinder" />
   <surface coeffs="-66.125" id="11" type="z-plane" />
   <surface coeffs="66.125" id="12" type="z-plane" />
-  <surface coeffs="0 0 8.5" id="13" type="z-cylinder" />
+  <surface coeffs="0 0 6.8" id="13" type="z-cylinder" />
   <surface coeffs="-66.125" id="14" type="z-plane" />
   <surface coeffs="66.125" id="15" type="z-plane" />
   <surface coeffs="0 0 1.05" id="16" type="z-cylinder" />
