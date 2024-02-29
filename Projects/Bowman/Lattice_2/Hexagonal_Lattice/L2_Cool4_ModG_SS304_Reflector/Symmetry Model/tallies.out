@@ -1,0 +1,202 @@
+ =========================>     TALLY 1: FLUX     <=========================
+
+ Total Material
+   Flux                                 84.6802 +/- 0.0572668
+ ====================>     TALLY 2: FUEL RXN RATES     <====================
+
+ Cell 5
+   Total Material
+     Nu-Fission Rate                      1.4329 +/- 0.00185404
+     Scattering Rate                      1.49421 +/- 0.00099908
+ =================>     TALLY 3: MODERATOR RXN RATES     <==================
+
+ Cell 46
+   Total Material
+     Absorption Rate                      0.00064043 +/- 3.94903e-06
+     Total Reaction Rate                  4.31059 +/- 0.00430159
+ Cell 1
+   Total Material
+     Absorption Rate                      0.00112894 +/- 5.72155e-06
+     Total Reaction Rate                  0.379541 +/- 0.000936984
+ Cell 45
+   Total Material
+     Absorption Rate                      0.000621939 +/- 3.76178e-06
+     Total Reaction Rate                  4.04116 +/- 0.00332952
+ Cell 47
+   Total Material
+     Absorption Rate                      0.000432062 +/- 4.34289e-06
+     Total Reaction Rate                  3.28139 +/- 0.0143596
+ Cell 6
+   Total Material
+     Absorption Rate                      0.00018045 +/- 1.33669e-06
+     Total Reaction Rate                  1.14246 +/- 0.000683773
+ Cell 7
+   Total Material
+     Absorption Rate                      0.00273483 +/- 5.43121e-06
+     Total Reaction Rate                  0.84039 +/- 0.000495261
+ Cell 49
+   Total Material
+     Absorption Rate                      0.0213374 +/- 0.000166983
+     Total Reaction Rate                  0.783421 +/- 0.00474444
+ =======================>     TALLY 4: LEAKAGE     <========================
+
+ Mesh Index (1, 1, 1) Outgoing, x-min
+   Total Material
+     Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Incoming, x-min
+   Total Material
+     Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Outgoing, x-max
+   Total Material
+     Current                              2.35294e-06 +/- 1.65385e-06
+ Mesh Index (1, 1, 1) Incoming, x-max
+   Total Material
+     Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Outgoing, y-min
+   Total Material
+     Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Incoming, y-min
+   Total Material
+     Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Outgoing, y-max
+   Total Material
+     Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Incoming, y-max
+   Total Material
+     Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Outgoing, z-min
+   Total Material
+     Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Incoming, z-min
+   Total Material
+     Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Outgoing, z-max
+   Total Material
+     Current                              0.0366259 +/- 0.000247634
+ Mesh Index (1, 1, 1) Incoming, z-max
+   Total Material
+     Current                              0 +/- 0
+ ===================>     TALLY 5: THERMAL LEAKAGE     <====================
+
+ Mesh Index (1, 1, 1) Outgoing, x-min
+   Incoming Energy [0, 0.625)
+     Total Material
+       Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Incoming, x-min
+   Incoming Energy [0, 0.625)
+     Total Material
+       Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Outgoing, x-max
+   Incoming Energy [0, 0.625)
+     Total Material
+       Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Incoming, x-max
+   Incoming Energy [0, 0.625)
+     Total Material
+       Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Outgoing, y-min
+   Incoming Energy [0, 0.625)
+     Total Material
+       Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Incoming, y-min
+   Incoming Energy [0, 0.625)
+     Total Material
+       Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Outgoing, y-max
+   Incoming Energy [0, 0.625)
+     Total Material
+       Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Incoming, y-max
+   Incoming Energy [0, 0.625)
+     Total Material
+       Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Outgoing, z-min
+   Incoming Energy [0, 0.625)
+     Total Material
+       Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Incoming, z-min
+   Incoming Energy [0, 0.625)
+     Total Material
+       Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Outgoing, z-max
+   Incoming Energy [0, 0.625)
+     Total Material
+       Current                              0.00431647 +/- 7.48078e-05
+ Mesh Index (1, 1, 1) Incoming, z-max
+   Incoming Energy [0, 0.625)
+     Total Material
+       Current                              0 +/- 0
+ =====================>     TALLY 6: FAST LEAKAGE     <=====================
+
+ Mesh Index (1, 1, 1) Outgoing, x-min
+   Incoming Energy [0.625, 20000000)
+     Total Material
+       Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Incoming, x-min
+   Incoming Energy [0.625, 20000000)
+     Total Material
+       Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Outgoing, x-max
+   Incoming Energy [0.625, 20000000)
+     Total Material
+       Current                              2.35294e-06 +/- 1.65385e-06
+ Mesh Index (1, 1, 1) Incoming, x-max
+   Incoming Energy [0.625, 20000000)
+     Total Material
+       Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Outgoing, y-min
+   Incoming Energy [0.625, 20000000)
+     Total Material
+       Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Incoming, y-min
+   Incoming Energy [0.625, 20000000)
+     Total Material
+       Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Outgoing, y-max
+   Incoming Energy [0.625, 20000000)
+     Total Material
+       Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Incoming, y-max
+   Incoming Energy [0.625, 20000000)
+     Total Material
+       Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Outgoing, z-min
+   Incoming Energy [0.625, 20000000)
+     Total Material
+       Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Incoming, z-min
+   Incoming Energy [0.625, 20000000)
+     Total Material
+       Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Outgoing, z-max
+   Incoming Energy [0.625, 20000000)
+     Total Material
+       Current                              0.0323094 +/- 0.000227977
+ Mesh Index (1, 1, 1) Incoming, z-max
+   Incoming Energy [0.625, 20000000)
+     Total Material
+       Current                              0 +/- 0
+ ======================>     TALLY 7: FISS. RATE     <======================
+
+ Total Material
+   Nu-Fission Rate                      1.4329 +/- 0.00185404
+ ======================>     TALLY 8: ABS. RATE     <=======================
+
+ Total Material
+   Absorption Rate                      0.924835 +/- 0.00109062
+ ===================>     TALLY 9: THERM. ABS. RATE     <===================
+
+ Incoming Energy [0, 0.625)
+   Total Material
+     Absorption Rate                      0.644574 +/- 0.000944338
+ ================>     TALLY 10: FUEL THERM. ABS. RATE     <================
+
+ Incoming Energy [0, 0.625)
+   Cell 5
+     Total Material
+       Absorption Rate                      0.547849 +/- 0.00084986
+ ==================>     TALLY 11: THERM. FISS. RATE     <==================
+
+ Incoming Energy [0, 0.625)
+   Total Material
+     Nu-Fission Rate                      1.11134 +/- 0.00172903

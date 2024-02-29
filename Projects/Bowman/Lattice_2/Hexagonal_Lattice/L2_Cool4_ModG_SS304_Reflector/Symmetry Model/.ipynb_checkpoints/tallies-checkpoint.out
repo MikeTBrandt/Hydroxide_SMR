@@ -1,0 +1,1378 @@
+ =========================>     TALLY 1: FLUX     <=========================
+
+ Cell 2
+   Incoming Energy [0, 0.625)
+     Total Material
+       Flux                                 0.452171 +/- 0.000771317
+   Incoming Energy [0.625, 20000000)
+     Total Material
+       Flux                                 3.41698 +/- 0.00227917
+ Cell 43
+   Incoming Energy [0, 0.625)
+     Total Material
+       Flux                                 3.05311 +/- 0.00767537
+   Incoming Energy [0.625, 20000000)
+     Total Material
+       Flux                                 11.6331 +/- 0.0129712
+ Cell 1
+   Incoming Energy [0, 0.625)
+     Total Material
+       Flux                                 6.78732 +/- 0.011113
+   Incoming Energy [0.625, 20000000)
+     Total Material
+       Flux                                 29.7322 +/- 0.0154407
+ Cell 44
+   Incoming Energy [0, 0.625)
+     Total Material
+       Flux                                 2.69897 +/- 0.0199523
+   Incoming Energy [0.625, 20000000)
+     Total Material
+       Flux                                 7.64616 +/- 0.0313851
+ ====================>     TALLY 2: FUEL RXN RATES     <====================
+
+ Cell 2
+   Incoming Energy [0, 0.625)
+     U238
+       Nu-Fission Rate                      1.59048e-07 +/- 2.82526e-10
+       Scattering Rate                      0.0779831 +/- 0.00013303
+     U235
+       Nu-Fission Rate                      1.11664 +/- 0.0020292
+       Scattering Rate                      0.0289274 +/- 4.93491e-05
+   Incoming Energy [0.625, 20000000)
+     U238
+       Nu-Fission Rate                      0.0204669 +/- 3.25063e-05
+       Scattering Rate                      0.674533 +/- 0.000534558
+     U235
+       Nu-Fission Rate                      0.308378 +/- 0.000392105
+       Scattering Rate                      0.142305 +/- 9.74255e-05
+ =================>     TALLY 3: MODERATOR RXN RATES     <==================
+
+ Cell 43
+   Incoming Energy [0, 0.625)
+     C12
+       Absorption Rate                      0.00040365 +/- 1.10532e-06
+       Total Reaction Rate                  1.11876 +/- 0.00281588
+     Na23
+       Absorption Rate                      0 +/- 0
+       Total Reaction Rate                  0 +/- 0
+     O16
+       Absorption Rate                      0 +/- 0
+       Total Reaction Rate                  0 +/- 0
+     O17
+       Absorption Rate                      0 +/- 0
+       Total Reaction Rate                  0 +/- 0
+     H1
+       Absorption Rate                      0 +/- 0
+       Total Reaction Rate                  0 +/- 0
+     H2
+       Absorption Rate                      0 +/- 0
+       Total Reaction Rate                  0 +/- 0
+     Li6
+       Absorption Rate                      0 +/- 0
+       Total Reaction Rate                  0 +/- 0
+     Li7
+       Absorption Rate                      0 +/- 0
+       Total Reaction Rate                  0 +/- 0
+   Incoming Energy [0.625, 20000000)
+     C12
+       Absorption Rate                      0.000213614 +/- 3.98315e-06
+       Total Reaction Rate                  3.40208 +/- 0.00404884
+     Na23
+       Absorption Rate                      0 +/- 0
+       Total Reaction Rate                  0 +/- 0
+     O16
+       Absorption Rate                      0 +/- 0
+       Total Reaction Rate                  0 +/- 0
+     O17
+       Absorption Rate                      0 +/- 0
+       Total Reaction Rate                  0 +/- 0
+     H1
+       Absorption Rate                      0 +/- 0
+       Total Reaction Rate                  0 +/- 0
+     H2
+       Absorption Rate                      0 +/- 0
+       Total Reaction Rate                  0 +/- 0
+     Li6
+       Absorption Rate                      0 +/- 0
+       Total Reaction Rate                  0 +/- 0
+     Li7
+       Absorption Rate                      0 +/- 0
+       Total Reaction Rate                  0 +/- 0
+ Cell 1
+   Incoming Energy [0, 0.625)
+     C12
+       Absorption Rate                      0 +/- 0
+       Total Reaction Rate                  0 +/- 0
+     Na23
+       Absorption Rate                      0.0323745 +/- 5.51266e-05
+       Total Reaction Rate                  0.484549 +/- 0.00079513
+     O16
+       Absorption Rate                      1.48879e-05 +/- 2.53462e-08
+       Total Reaction Rate                  0.755306 +/- 0.00123691
+     O17
+       Absorption Rate                      7.94421e-06 +/- 1.35273e-08
+       Total Reaction Rate                  0.000290467 +/- 4.76042e-07
+     H1
+       Absorption Rate                      0.0291051 +/- 4.95597e-05
+       Total Reaction Rate                  5.43694 +/- 0.0089943
+     H2
+       Absorption Rate                      6.63218e-09 +/- 1.12934e-11
+       Total Reaction Rate                  0.000118231 +/- 1.9452e-07
+     Li6
+       Absorption Rate                      0.00122955 +/- 2.09367e-06
+       Total Reaction Rate                  0.00123178 +/- 2.09728e-06
+     Li7
+       Absorption Rate                      0.00119437 +/- 2.03376e-06
+       Total Reaction Rate                  0.0612276 +/- 0.000100326
+   Incoming Energy [0.625, 20000000)
+     C12
+       Absorption Rate                      0 +/- 0
+       Total Reaction Rate                  0 +/- 0
+     Na23
+       Absorption Rate                      0.00624005 +/- 5.93969e-06
+       Total Reaction Rate                  3.14184 +/- 0.00209871
+     O16
+       Absorption Rate                      0.00230981 +/- 1.19632e-05
+       Total Reaction Rate                  2.94922 +/- 0.00155736
+     O17
+       Absorption Rate                      1.32145e-05 +/- 1.24747e-08
+       Total Reaction Rate                  0.000862904 +/- 4.32284e-07
+     H1
+       Absorption Rate                      0.0041887 +/- 4.49311e-06
+       Total Reaction Rate                  10.6442 +/- 0.0055753
+     H2
+       Absorption Rate                      1.32319e-09 +/- 1.08985e-12
+       Total Reaction Rate                  0.000391221 +/- 1.96451e-07
+     Li6
+       Absorption Rate                      0.000180073 +/- 1.89761e-07
+       Total Reaction Rate                  0.000196494 +/- 1.91732e-07
+     Li7
+       Absorption Rate                      0.000173059 +/- 1.85322e-07
+       Total Reaction Rate                  0.363291 +/- 0.000219555
+ Cell 44
+   Incoming Energy [0, 0.625)
+     C12
+       Absorption Rate                      0.000350765 +/- 2.6595e-06
+       Total Reaction Rate                  0.987967 +/- 0.00729887
+     Na23
+       Absorption Rate                      0 +/- 0
+       Total Reaction Rate                  0 +/- 0
+     O16
+       Absorption Rate                      0 +/- 0
+       Total Reaction Rate                  0 +/- 0
+     O17
+       Absorption Rate                      0 +/- 0
+       Total Reaction Rate                  0 +/- 0
+     H1
+       Absorption Rate                      0 +/- 0
+       Total Reaction Rate                  0 +/- 0
+     H2
+       Absorption Rate                      0 +/- 0
+       Total Reaction Rate                  0 +/- 0
+     Li6
+       Absorption Rate                      0 +/- 0
+       Total Reaction Rate                  0 +/- 0
+     Li7
+       Absorption Rate                      0 +/- 0
+       Total Reaction Rate                  0 +/- 0
+   Incoming Energy [0.625, 20000000)
+     C12
+       Absorption Rate                      0.000102023 +/- 3.32915e-06
+       Total Reaction Rate                  2.39085 +/- 0.0103555
+     Na23
+       Absorption Rate                      0 +/- 0
+       Total Reaction Rate                  0 +/- 0
+     O16
+       Absorption Rate                      0 +/- 0
+       Total Reaction Rate                  0 +/- 0
+     O17
+       Absorption Rate                      0 +/- 0
+       Total Reaction Rate                  0 +/- 0
+     H1
+       Absorption Rate                      0 +/- 0
+       Total Reaction Rate                  0 +/- 0
+     H2
+       Absorption Rate                      0 +/- 0
+       Total Reaction Rate                  0 +/- 0
+     Li6
+       Absorption Rate                      0 +/- 0
+       Total Reaction Rate                  0 +/- 0
+     Li7
+       Absorption Rate                      0 +/- 0
+       Total Reaction Rate                  0 +/- 0
+ =======================>     TALLY 4: LEAKAGE     <========================
+
+ Mesh Index (1, 1, 1) Outgoing, x-min
+   Total Material
+     Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Incoming, x-min
+   Total Material
+     Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Outgoing, x-max
+   Total Material
+     Current                              0.00467765 +/- 8.30844e-05
+ Mesh Index (1, 1, 1) Incoming, x-max
+   Total Material
+     Current                              0.00454824 +/- 8.38267e-05
+ Mesh Index (1, 1, 1) Outgoing, y-min
+   Total Material
+     Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Incoming, y-min
+   Total Material
+     Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Outgoing, y-max
+   Total Material
+     Current                              0.00458824 +/- 8.23569e-05
+ Mesh Index (1, 1, 1) Incoming, y-max
+   Total Material
+     Current                              0.00462353 +/- 8.81279e-05
+ Mesh Index (1, 1, 1) Outgoing, z-min
+   Total Material
+     Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Incoming, z-min
+   Total Material
+     Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Outgoing, z-max
+   Total Material
+     Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Incoming, z-max
+   Total Material
+     Current                              0 +/- 0
+ ===================>     TALLY 5: THERMAL LEAKAGE     <====================
+
+ Mesh Index (1, 1, 1) Outgoing, x-min
+   Incoming Energy [0, 0.625)
+     Total Material
+       Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Incoming, x-min
+   Incoming Energy [0, 0.625)
+     Total Material
+       Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Outgoing, x-max
+   Incoming Energy [0, 0.625)
+     Total Material
+       Current                              0.000676471 +/- 2.91162e-05
+ Mesh Index (1, 1, 1) Incoming, x-max
+   Incoming Energy [0, 0.625)
+     Total Material
+       Current                              0.000816471 +/- 3.24468e-05
+ Mesh Index (1, 1, 1) Outgoing, y-min
+   Incoming Energy [0, 0.625)
+     Total Material
+       Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Incoming, y-min
+   Incoming Energy [0, 0.625)
+     Total Material
+       Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Outgoing, y-max
+   Incoming Energy [0, 0.625)
+     Total Material
+       Current                              0.000625882 +/- 2.92843e-05
+ Mesh Index (1, 1, 1) Incoming, y-max
+   Incoming Energy [0, 0.625)
+     Total Material
+       Current                              0.000823529 +/- 3.82256e-05
+ Mesh Index (1, 1, 1) Outgoing, z-min
+   Incoming Energy [0, 0.625)
+     Total Material
+       Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Incoming, z-min
+   Incoming Energy [0, 0.625)
+     Total Material
+       Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Outgoing, z-max
+   Incoming Energy [0, 0.625)
+     Total Material
+       Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Incoming, z-max
+   Incoming Energy [0, 0.625)
+     Total Material
+       Current                              0 +/- 0
+ =====================>     TALLY 6: FAST LEAKAGE     <=====================
+
+ Mesh Index (1, 1, 1) Outgoing, x-min
+   Incoming Energy [0.625, 20000000)
+     Total Material
+       Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Incoming, x-min
+   Incoming Energy [0.625, 20000000)
+     Total Material
+       Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Outgoing, x-max
+   Incoming Energy [0.625, 20000000)
+     Total Material
+       Current                              0.00400118 +/- 7.79372e-05
+ Mesh Index (1, 1, 1) Incoming, x-max
+   Incoming Energy [0.625, 20000000)
+     Total Material
+       Current                              0.00373176 +/- 7.85408e-05
+ Mesh Index (1, 1, 1) Outgoing, y-min
+   Incoming Energy [0.625, 20000000)
+     Total Material
+       Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Incoming, y-min
+   Incoming Energy [0.625, 20000000)
+     Total Material
+       Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Outgoing, y-max
+   Incoming Energy [0.625, 20000000)
+     Total Material
+       Current                              0.00396235 +/- 7.92114e-05
+ Mesh Index (1, 1, 1) Incoming, y-max
+   Incoming Energy [0.625, 20000000)
+     Total Material
+       Current                              0.0038 +/- 8.20091e-05
+ Mesh Index (1, 1, 1) Outgoing, z-min
+   Incoming Energy [0.625, 20000000)
+     Total Material
+       Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Incoming, z-min
+   Incoming Energy [0.625, 20000000)
+     Total Material
+       Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Outgoing, z-max
+   Incoming Energy [0.625, 20000000)
+     Total Material
+       Current                              0 +/- 0
+ Mesh Index (1, 1, 1) Incoming, z-max
+   Incoming Energy [0.625, 20000000)
+     Total Material
+       Current                              0 +/- 0
+ ======================>     TALLY 7: FISS. RATE     <======================
+
+ Total Material
+   Nu-Fission Rate                      1.44576 +/- 0.00210192
+ ======================>     TALLY 8: ABS. RATE     <=======================
+
+ Total Material
+   Absorption Rate                      0.924283 +/- 0.00111173
+ ===================>     TALLY 9: THERM. ABS. RATE     <===================
+
+ Incoming Energy [0, 0.625)
+   Total Material
+     Absorption Rate                      0.6398 +/- 0.00108509
+ ================>     TALLY 10: FUEL THERM. ABS. RATE     <================
+
+ Incoming Energy [0, 0.625)
+   Cell 2
+     Total Material
+       Absorption Rate                      0.556079 +/- 0.00100953
+ ==================>     TALLY 11: THERM. FISS. RATE     <==================
+
+ Incoming Energy [0, 0.625)
+   Total Material
+     Nu-Fission Rate                      1.11664 +/- 0.0020292
+ ====================>     TALLY 12: NEED-TO-SLICE     <====================
+
+ Cell 2
+   Incoming Energy [0.01, 0.10800597388923064)
+     H1
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     U238
+       Nu-Fission Rate                      5.97277e-08 +/- 1.76663e-10
+       Scattering Rate                      0.0187369 +/- 5.7231e-05
+     C12
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Na23
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O16
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.0205762 +/- 6.23456e-05
+     O17
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      7.676e-06 +/- 2.3295e-08
+     H2
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li6
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li7
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+   Incoming Energy [0.10800597388923064, 1.166529039576117)
+     H1
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     U238
+       Nu-Fission Rate                      1.08327e-07 +/- 1.87958e-10
+       Scattering Rate                      0.0701901 +/- 0.000119614
+     C12
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Na23
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O16
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.0737134 +/- 0.000125559
+     O17
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      2.75802e-05 +/- 4.70328e-08
+     H2
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li6
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li7
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+   Incoming Energy [1.166529039576117, 12.59921049894874)
+     H1
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     U238
+       Nu-Fission Rate                      4.00611e-08 +/- 1.67362e-10
+       Scattering Rate                      0.0386911 +/- 8.96575e-05
+     C12
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Na23
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O16
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.0403448 +/- 9.41607e-05
+     O17
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      1.51082e-05 +/- 3.52634e-08
+     H2
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li6
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li7
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+   Incoming Energy [12.59921049894874, 136.0790000174378)
+     H1
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     U238
+       Nu-Fission Rate                      9.87276e-08 +/- 7.99345e-10
+       Scattering Rate                      0.0721476 +/- 0.000222674
+     C12
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Na23
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O16
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.0430674 +/- 9.53449e-05
+     O17
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      1.61294e-05 +/- 3.57086e-08
+     H2
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li6
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li7
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+   Incoming Energy [136.0790000174378, 1469.7344922756008)
+     H1
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     U238
+       Nu-Fission Rate                      8.30247e-06 +/- 2.29743e-07
+       Scattering Rate                      0.0900832 +/- 0.000232175
+     C12
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Na23
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O16
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.0536372 +/- 0.000118762
+     O17
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      2.00943e-05 +/- 4.44907e-08
+     H2
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li6
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li7
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+   Incoming Energy [1469.7344922756008, 15874.010519682019)
+     H1
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     U238
+       Nu-Fission Rate                      1.23435e-06 +/- 1.62374e-08
+       Scattering Rate                      0.0959711 +/- 0.000205358
+     C12
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Na23
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O16
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.0571192 +/- 0.00010983
+     O17
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      2.14295e-05 +/- 4.11883e-08
+     H2
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li6
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li7
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+   Incoming Energy [15874.010519682019, 171448.79657061485)
+     H1
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     U238
+       Nu-Fission Rate                      1.77232e-06 +/- 3.53116e-09
+       Scattering Rate                      0.113412 +/- 0.000218342
+     C12
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Na23
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O16
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.0834431 +/- 0.000159545
+     O17
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      2.6332e-05 +/- 5.00511e-08
+     H2
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li6
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li7
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+   Incoming Energy [171448.79657061485, 1851749.4245745845)
+     H1
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     U238
+       Nu-Fission Rate                      0.00462048 +/- 1.27923e-05
+       Scattering Rate                      0.182608 +/- 0.000216008
+     C12
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Na23
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O16
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.214604 +/- 0.000280122
+     O17
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      3.41712e-05 +/- 4.04825e-08
+     H2
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li6
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li7
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+   Incoming Energy [1851749.4245745845, 20000000)
+     H1
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     U238
+       Nu-Fission Rate                      0.0158349 +/- 3.24863e-05
+       Scattering Rate                      0.0705336 +/- 0.000144394
+     C12
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Na23
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O16
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.0383556 +/- 8.62713e-05
+     O17
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      1.21612e-05 +/- 2.46222e-08
+     H2
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li6
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li7
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+ Cell 43
+   Incoming Energy [0.01, 0.10800597388923064)
+     H1
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     U238
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     C12
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.352893 +/- 0.00123074
+     Na23
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O16
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O17
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     H2
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li6
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li7
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+   Incoming Energy [0.10800597388923064, 1.166529039576117)
+     H1
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     U238
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     C12
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.866407 +/- 0.00216547
+     Na23
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O16
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O17
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     H2
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li6
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li7
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+   Incoming Energy [1.166529039576117, 12.59921049894874)
+     H1
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     U238
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     C12
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.359846 +/- 0.00125766
+     Na23
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O16
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O17
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     H2
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li6
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li7
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+   Incoming Energy [12.59921049894874, 136.0790000174378)
+     H1
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     U238
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     C12
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.393304 +/- 0.00126265
+     Na23
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O16
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O17
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     H2
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li6
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li7
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+   Incoming Energy [136.0790000174378, 1469.7344922756008)
+     H1
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     U238
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     C12
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.441108 +/- 0.00145167
+     Na23
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O16
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O17
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     H2
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li6
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li7
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+   Incoming Energy [1469.7344922756008, 15874.010519682019)
+     H1
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     U238
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     C12
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.457241 +/- 0.00130594
+     Na23
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O16
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O17
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     H2
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li6
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li7
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+   Incoming Energy [15874.010519682019, 171448.79657061485)
+     H1
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     U238
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     C12
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.646015 +/- 0.00145959
+     Na23
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O16
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O17
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     H2
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li6
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li7
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+   Incoming Energy [171448.79657061485, 1851749.4245745845)
+     H1
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     U238
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     C12
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.836329 +/- 0.00129999
+     Na23
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O16
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O17
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     H2
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li6
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li7
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+   Incoming Energy [1851749.4245745845, 20000000)
+     H1
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     U238
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     C12
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.160113 +/- 0.000500185
+     Na23
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O16
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O17
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     H2
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li6
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li7
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+ Cell 1
+   Incoming Energy [0.01, 0.10800597388923064)
+     H1
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      2.02661 +/- 0.00413455
+     U238
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     C12
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Na23
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.139801 +/- 0.000287323
+     O16
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.23317 +/- 0.000478991
+     O17
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      8.70941e-05 +/- 1.7899e-07
+     H2
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      4.12497e-05 +/- 8.43127e-08
+     Li6
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      7.13736e-07 +/- 1.46405e-09
+     Li7
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.0190568 +/- 3.90442e-05
+   Incoming Energy [0.10800597388923064, 1.166529039576117)
+     H1
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      3.71748 +/- 0.00567544
+     U238
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     C12
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Na23
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.35457 +/- 0.000536105
+     O16
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.593244 +/- 0.000896248
+     O17
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.000222106 +/- 3.35533e-07
+     H2
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      8.57678e-05 +/- 1.30226e-07
+     Li6
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      1.70948e-06 +/- 2.5879e-09
+     Li7
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.0463737 +/- 7.01113e-05
+   Incoming Energy [1.166529039576117, 12.59921049894874)
+     H1
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      1.45452 +/- 0.00199476
+     U238
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     C12
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Na23
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.155782 +/- 0.000213621
+     O16
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.266541 +/- 0.000365142
+     O17
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      9.98535e-05 +/- 1.3679e-07
+     H2
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      3.59879e-05 +/- 4.93274e-08
+     Li6
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      7.55013e-07 +/- 1.03444e-09
+     Li7
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.0208892 +/- 2.85889e-05
+   Incoming Energy [12.59921049894874, 136.0790000174378)
+     H1
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      1.57648 +/- 0.0018578
+     U238
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     C12
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Na23
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.169399 +/- 0.000199607
+     O16
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.292379 +/- 0.000344538
+     O17
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.000109541 +/- 1.29083e-07
+     H2
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      3.92605e-05 +/- 4.62656e-08
+     Li6
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      8.26407e-07 +/- 9.7387e-10
+     Li7
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.023482 +/- 2.76487e-05
+   Incoming Energy [136.0790000174378, 1469.7344922756008)
+     H1
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      1.76643 +/- 0.00211467
+     U238
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     C12
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Na23
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.208841 +/- 0.00024712
+     O16
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.328967 +/- 0.000393752
+     O17
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.000123288 +/- 1.47565e-07
+     H2
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      4.41645e-05 +/- 5.28611e-08
+     Li6
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      9.27237e-07 +/- 1.10993e-09
+     Li7
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.0272274 +/- 3.25729e-05
+   Incoming Energy [1469.7344922756008, 15874.010519682019)
+     H1
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      1.75044 +/- 0.00184931
+     U238
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     C12
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Na23
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      1.25642 +/- 0.00171921
+     O16
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.336708 +/- 0.000355462
+     O17
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.000126371 +/- 1.3344e-07
+     H2
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      4.51663e-05 +/- 4.7683e-08
+     Li6
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      9.42263e-07 +/- 9.94732e-10
+     Li7
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.0283641 +/- 2.99439e-05
+   Incoming Energy [15874.010519682019, 171448.79657061485)
+     H1
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      1.87287 +/- 0.00190968
+     U238
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     C12
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Na23
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.367068 +/- 0.000384666
+     O16
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.467354 +/- 0.000487137
+     O17
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.000148064 +/- 1.51436e-07
+     H2
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      6.27774e-05 +/- 6.55037e-08
+     Li6
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      1.63726e-06 +/- 1.8447e-09
+     Li7
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.0393108 +/- 4.09664e-05
+   Incoming Energy [171448.79657061485, 1851749.4245745845)
+     H1
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      1.54031 +/- 0.00137155
+     U238
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     C12
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Na23
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.74845 +/- 0.00069061
+     O16
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      1.02065 +/- 0.00103854
+     O17
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.00016312 +/- 1.48665e-07
+     H2
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.00011952 +/- 1.11725e-07
+     Li6
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      8.65142e-06 +/- 8.06329e-09
+     Li7
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.155155 +/- 0.000154425
+   Incoming Energy [1851749.4245745845, 20000000)
+     H1
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.243696 +/- 0.000526346
+     U238
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     C12
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Na23
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.184059 +/- 0.000397346
+     O16
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.157163 +/- 0.000339065
+     O17
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      5.05552e-05 +/- 1.0665e-07
+     H2
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      3.37609e-05 +/- 7.23865e-08
+     Li6
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      2.46134e-06 +/- 5.22848e-09
+     Li7
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.0626867 +/- 0.000132237
+ Cell 44
+   Incoming Energy [0.01, 0.10800597388923064)
+     H1
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     U238
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     C12
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.298246 +/- 0.00256885
+     Na23
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O16
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O17
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     H2
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li6
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li7
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+   Incoming Energy [0.10800597388923064, 1.166529039576117)
+     H1
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     U238
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     C12
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.778622 +/- 0.00573211
+     Na23
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O16
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O17
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     H2
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li6
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li7
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+   Incoming Energy [1.166529039576117, 12.59921049894874)
+     H1
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     U238
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     C12
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.310567 +/- 0.00250729
+     Na23
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O16
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O17
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     H2
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li6
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li7
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+   Incoming Energy [12.59921049894874, 136.0790000174378)
+     H1
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     U238
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     C12
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.328587 +/- 0.00226433
+     Na23
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O16
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O17
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     H2
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li6
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li7
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+   Incoming Energy [136.0790000174378, 1469.7344922756008)
+     H1
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     U238
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     C12
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.353381 +/- 0.00222349
+     Na23
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O16
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O17
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     H2
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li6
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li7
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+   Incoming Energy [1469.7344922756008, 15874.010519682019)
+     H1
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     U238
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     C12
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.378122 +/- 0.00235316
+     Na23
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O16
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O17
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     H2
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li6
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li7
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+   Incoming Energy [15874.010519682019, 171448.79657061485)
+     H1
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     U238
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     C12
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.442943 +/- 0.00234916
+     Na23
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O16
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O17
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     H2
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li6
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li7
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+   Incoming Energy [171448.79657061485, 1851749.4245745845)
+     H1
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     U238
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     C12
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.423221 +/- 0.00209833
+     Na23
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O16
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O17
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     H2
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li6
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li7
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+   Incoming Energy [1851749.4245745845, 20000000)
+     H1
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     U238
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     C12
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0.0593787 +/- 0.000516708
+     Na23
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O16
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     O17
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     H2
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li6
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0
+     Li7
+       Nu-Fission Rate                      0 +/- 0
+       Scattering Rate                      0 +/- 0

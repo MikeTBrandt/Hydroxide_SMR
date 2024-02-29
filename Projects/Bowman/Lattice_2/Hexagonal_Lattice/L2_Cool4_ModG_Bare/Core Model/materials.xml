@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <materials>
-  <material depletable="true" id="1" name="uo2" volume="140660.97836071547">
+  <material depletable="true" id="1" name="uo2" volume="124352.4591304876">
     <density units="g/cc" value="10.5" />
     <nuclide ao="1.9952412" name="O16" />
     <nuclide ao="0.000758" name="O17" />

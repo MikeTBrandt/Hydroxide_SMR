@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <materials>
-  <material depletable="true" id="1" name="uo2" volume="140603.87889321888">
+  <material depletable="true" id="1" name="uo2">
     <density units="g/cc" value="10.5" />
+    <nuclide ao="0.0017832925496507987" name="U234" />
+    <nuclide ao="0.19951493213963065" name="U235" />
+    <nuclide ao="0.7977879010913043" name="U238" />
+    <nuclide ao="0.0009138742194142107" name="U236" />
     <nuclide ao="1.9952412" name="O16" />
     <nuclide ao="0.000758" name="O17" />
     <nuclide ao="0.0040008" name="O18" />
-    <nuclide ao="0.0017832925496507987" name="U234" />
-    <nuclide ao="0.19951493213963065" name="U235" />
-    <nuclide ao="0.0009138742194142107" name="U236" />
-    <nuclide ao="0.7977879010913043" name="U238" />
   </material>
   <material id="2" name="graphite">
     <density units="g/cm3" value="1.5" />
@@ -27,12 +27,12 @@
   </material>
   <material id="6" name="LiOH(0.24562)-NaOH(0.75438)">
     <density units="g/cc" value="1.67" />
-    <nuclide ao="0.333190775000821" name="H1" />
-    <nuclide ao="4.996110695853337e-05" name="H2" />
     <nuclide ao="4.990874402335972e-06" name="Li6" />
     <nuclide ao="0.10012210198922454" name="Li7" />
     <nuclide ao="0.33313982229538713" name="O16" />
     <nuclide ao="0.00012660840502509179" name="O17" />
+    <nuclide ao="0.333190775000821" name="H1" />
+    <nuclide ao="4.996110695853337e-05" name="H2" />
     <nuclide ao="0.23336574032818147" name="Na23" />
   </material>
   <material id="7" name="graphite">
@@ -45,28 +45,28 @@
     <density units="g/cm3" value="8.03" />
     <nuclide name="C12" wo="0.0007904054760685493" />
     <nuclide name="C13" wo="9.59452393145078e-06" />
-    <nuclide name="Si28" wo="0.009187351728283676" />
-    <nuclide name="Si29" wo="0.0004831750292786396" />
-    <nuclide name="Si30" wo="0.00032947324243768423" />
+    <nuclide name="Mn55" wo="0.02" />
     <nuclide name="P31" wo="0.00045" />
     <nuclide name="S32" wo="0.0002843058324248275" />
     <nuclide name="S33" wo="2.309645813262106e-06" />
     <nuclide name="S34" wo="1.3335457202628067e-05" />
     <nuclide name="S36" wo="4.9064559282261095e-08" />
+    <nuclide name="Si28" wo="0.009187351728283676" />
+    <nuclide name="Si29" wo="0.0004831750292786396" />
+    <nuclide name="Si30" wo="0.00032947324243768423" />
     <nuclide name="Cr50" wo="0.007930004583164795" />
     <nuclide name="Cr52" wo="0.1590287884675572" />
     <nuclide name="Cr53" wo="0.01837981495548285" />
     <nuclide name="Cr54" wo="0.004661391993795167" />
-    <nuclide name="Mn55" wo="0.02" />
-    <nuclide name="Fe54" wo="0.03858456767309001" />
-    <nuclide name="Fe56" wo="0.6281009984439196" />
-    <nuclide name="Fe57" wo="0.014765039290159303" />
-    <nuclide name="Fe58" wo="0.0019993945928311343" />
     <nuclide name="Ni58" wo="0.0638378200317604" />
     <nuclide name="Ni60" wo="0.025437164754268084" />
     <nuclide name="Ni61" wo="0.0011241911310318747" />
     <nuclide name="Ni62" wo="0.0036430811883128114" />
     <nuclide name="Ni64" wo="0.0009577428946268364" />
+    <nuclide name="Fe54" wo="0.03858456767309001" />
+    <nuclide name="Fe56" wo="0.6281009984439196" />
+    <nuclide name="Fe57" wo="0.014765039290159303" />
+    <nuclide name="Fe58" wo="0.0019993945928311343" />
   </material>
   <material id="11" name="graphite">
     <density units="g/cc" value="1.5" />
